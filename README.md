@@ -1,4 +1,6 @@
-``` npm install
+```
+
+    npm install
 
     php artisan migrate
 
